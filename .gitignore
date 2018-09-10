@@ -1,0 +1,12 @@
+# Distribution Folder
+dist/
+
+# Node Js Dependencies
+node_modules/
+
+# Visual Code Files and Folders
+.awcache
+
+# OS generated files
+.DS_Store
+.vscode
