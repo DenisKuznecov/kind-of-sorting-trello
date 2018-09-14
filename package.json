@@ -16,7 +16,7 @@
   "author": "Denis Kuznetsov and Alexandr Pristupa",
   "license": "ISC",
   "dependencies": {
-    "react": "16.4.2",
+    "react": "16.5.1",
     "react-dom": "16.4.2",
     "redux": "^4.0.0",
     "react-redux": "^5.0.7",
