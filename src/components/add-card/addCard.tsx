@@ -1,15 +1,15 @@
 import * as React from 'react'
 import * as s from './style.css'
 
-class Test extends React.Component<{}> {
+class AddCard extends React.Component<{}> {
 
   render() {
     return (
-      <div className={s.main}>
-        Ssss
+      <div>
+        AddCard
       </div>
     )
   }
 }
 
-export default Test
+export default AddCard
